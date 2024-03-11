@@ -1,4 +1,4 @@
-Snake game done by Youtube tutorial
+Snake game in C#, WPF App
 
 I added multiple food on game board
 
